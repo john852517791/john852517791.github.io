@@ -2,11 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on John&#39;s blog</title>
-    <link>john852517791.github.io/posts/</link>
+    <link>//localhost:1313/posts/</link>
     <description>Recent content in Posts on John&#39;s blog</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate></lastBuildDate>
-    <atom:link href="john852517791.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 14 Jan 2025 15:46:21 +0800</lastBuildDate>
+    <atom:link href="//localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>first try</title>
+      <link>//localhost:1313/posts/my-first-post/</link>
+      <pubDate>Tue, 14 Jan 2025 15:46:21 +0800</pubDate>
+      <guid>//localhost:1313/posts/my-first-post/</guid>
+      <description>&lt;h2 id=&#34;first&#34;&gt;first&lt;/h2&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;p&gt;hell no&#xA;blala&#xA;blala&#xA;blala&#xA;blala&#xA;blala&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>
