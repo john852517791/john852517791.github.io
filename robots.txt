@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: github.com/john852517791/john852517791.github.io/tree/main/sitemap.xml
+Sitemap: https://github.com/john852517791/john852517791.github.io/tree/main/sitemap.xml
